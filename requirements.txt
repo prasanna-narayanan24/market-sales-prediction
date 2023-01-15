@@ -1,0 +1,5 @@
+GDAL==3.5.2
+numpy==1.23.3
+protobuf==4.21.6
+pywatchman==1.4.1
+six==1.16.0
